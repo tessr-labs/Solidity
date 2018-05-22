@@ -1,2 +1,2 @@
-# blockchain
-Blockchain Projects
+# solidity
+Solidity Projects
